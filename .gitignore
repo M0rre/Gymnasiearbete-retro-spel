@@ -9,6 +9,28 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+<<<<<<< HEAD
+#Idfk
+/REMOve/
+/HOW DO I DELETE/
+# Pong
+/2D-Pong/[Ll]ibrary/
+/2D-Pong/[Tt]emp/
+/2D-Pong/[Oo]bj/
+/2D-Pong/[Bb]uild/
+/2D-Pong/[Bb]uilds/
+/2D-Pong/[Ll]ogs/
+/2D-Pong/[Mm]emoryCaptures/
+=======
+>>>>>>> parent of 5269cfe (Add Pong field)
+
+/Pong-2D/[Ll]ibrary/
+/Pong-2D/[Tt]emp/
+/Pong-2D/[Oo]bj/
+/Pong-2D/[Bb]uild/
+/Pong-2D/[Bb]uilds/
+/Pong-2D/[Ll]ogs/
+/Pong-2D/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
